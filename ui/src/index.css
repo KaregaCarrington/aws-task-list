@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.addTaskForm {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.flex {
+  display: flex;
+}
